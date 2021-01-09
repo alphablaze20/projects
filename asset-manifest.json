@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/alphablaze20/projects.git/static/css/main.595a5b92.chunk.css",
-    "main.js": "/alphablaze20/projects.git/static/js/main.8e6604aa.chunk.js",
-    "main.js.map": "/alphablaze20/projects.git/static/js/main.8e6604aa.chunk.js.map",
-    "runtime-main.js": "/alphablaze20/projects.git/static/js/runtime-main.63b52f5a.js",
-    "runtime-main.js.map": "/alphablaze20/projects.git/static/js/runtime-main.63b52f5a.js.map",
-    "static/js/2.635a7db8.chunk.js": "/alphablaze20/projects.git/static/js/2.635a7db8.chunk.js",
-    "static/js/2.635a7db8.chunk.js.map": "/alphablaze20/projects.git/static/js/2.635a7db8.chunk.js.map",
-    "static/js/3.56e6c955.chunk.js": "/alphablaze20/projects.git/static/js/3.56e6c955.chunk.js",
-    "static/js/3.56e6c955.chunk.js.map": "/alphablaze20/projects.git/static/js/3.56e6c955.chunk.js.map",
-    "index.html": "/alphablaze20/projects.git/index.html",
-    "static/css/main.595a5b92.chunk.css.map": "/alphablaze20/projects.git/static/css/main.595a5b92.chunk.css.map",
-    "static/js/2.635a7db8.chunk.js.LICENSE.txt": "/alphablaze20/projects.git/static/js/2.635a7db8.chunk.js.LICENSE.txt"
+    "main.css": "/alphablaze20/projects/static/css/main.595a5b92.chunk.css",
+    "main.js": "/alphablaze20/projects/static/js/main.8e6604aa.chunk.js",
+    "main.js.map": "/alphablaze20/projects/static/js/main.8e6604aa.chunk.js.map",
+    "runtime-main.js": "/alphablaze20/projects/static/js/runtime-main.faeb8d43.js",
+    "runtime-main.js.map": "/alphablaze20/projects/static/js/runtime-main.faeb8d43.js.map",
+    "static/js/2.c9732263.chunk.js": "/alphablaze20/projects/static/js/2.c9732263.chunk.js",
+    "static/js/2.c9732263.chunk.js.map": "/alphablaze20/projects/static/js/2.c9732263.chunk.js.map",
+    "static/js/3.56e6c955.chunk.js": "/alphablaze20/projects/static/js/3.56e6c955.chunk.js",
+    "static/js/3.56e6c955.chunk.js.map": "/alphablaze20/projects/static/js/3.56e6c955.chunk.js.map",
+    "index.html": "/alphablaze20/projects/index.html",
+    "static/css/main.595a5b92.chunk.css.map": "/alphablaze20/projects/static/css/main.595a5b92.chunk.css.map",
+    "static/js/2.c9732263.chunk.js.LICENSE.txt": "/alphablaze20/projects/static/js/2.c9732263.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63b52f5a.js",
-    "static/js/2.635a7db8.chunk.js",
+    "static/js/runtime-main.faeb8d43.js",
+    "static/js/2.c9732263.chunk.js",
     "static/css/main.595a5b92.chunk.css",
     "static/js/main.8e6604aa.chunk.js"
   ]
